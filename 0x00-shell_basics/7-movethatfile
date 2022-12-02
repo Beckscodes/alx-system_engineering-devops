@@ -1,2 +1,2 @@
 #!/bin/bash
-move that file
+ls /tmp/my_first_directory/betty
