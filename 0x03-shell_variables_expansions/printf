@@ -1,1 +1,0 @@
-printf "%.2f" $NUM | sort %.2f
